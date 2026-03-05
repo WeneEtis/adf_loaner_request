@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Reminders" section_id="9938d5f78f5332107f442f71cda5759f" sys_domain="global" table="x_cdltd_loaner_r_0_loaner_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pick_up_reminder</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:49</sys_created_on>
+            <sys_id>1d38d5f78f5332107f442f71cda575b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">9938d5f78f5332107f442f71cda5759f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_overdue_reminder</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:49</sys_created_on>
+            <sys_id>dd38d5f78f5332107f442f71cda575b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">9938d5f78f5332107f442f71cda5759f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:49</sys_created_on>
+            <sys_id>9138d5f78f5332107f442f71cda575b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">9938d5f78f5332107f442f71cda5759f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>return_reminder</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:49</sys_created_on>
+            <sys_id>5538d5f78f5332107f442f71cda575b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">9938d5f78f5332107f442f71cda5759f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overdue_count</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:49</sys_created_on>
+            <sys_id>1938d5f78f5332107f442f71cda575b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">9938d5f78f5332107f442f71cda5759f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Reminders</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_r_0_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-05 04:27:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9938d5f78f5332107f442f71cda5759f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_r_0_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b3ed11478f9332107f442f71cda575ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">b3ed11478f9332107f442f71cda575ce</sys_scope>
+            <sys_update_name>sys_ui_section_9938d5f78f5332107f442f71cda5759f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-05 04:27:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

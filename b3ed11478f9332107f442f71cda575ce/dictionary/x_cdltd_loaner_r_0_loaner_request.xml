@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="b640ad878f9332107f442f71cda575f5" extends="task" label="Loaner Request" max_length="40" name="x_cdltd_loaner_r_0_loaner_request" type="collection">
+        <element label="Overdue count" max_length="255" name="overdue_count" type="integer"/>
         <element choice="3" default="sc" label="Depot" max_length="40" name="depot" type="choice">
             <choice>
                 <element inactive_on_update="false" label="New York" sequence="0" value="ny"/>
@@ -12,6 +13,8 @@
             </choice>
         </element>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
+        <element label="Return reminder" max_length="255" name="return_reminder" type="glide_date_time"/>
+        <element label="Overdue reminder" max_length="255" name="last_overdue_reminder" type="glide_date_time"/>
         <element label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element label="End date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
         <element choice="3" default="cmdb_ci_computer" label="Item type" max_length="40" name="item_type" type="choice">
